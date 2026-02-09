@@ -1,0 +1,1 @@
+["set","door","DoorButtons","Move Timer","Computer","computer type box","log display","Grid & levels","screens","menu & level select","shop button","UNLOCKBOT","Teto Plant","Hallucinations","plush","Banana Man","Dial","Delta","Dummy","files","Shop Stuff","items","Particles","Status Effects","Stats","Explanation Box","Save & load","Background"]
